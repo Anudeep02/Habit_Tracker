@@ -15,7 +15,10 @@
 
 # Update name of the Habit
 
-![WhatsApp Image 2023-10-15 at 11 09 49 AM](https://github.com/Anudeep02/Habit_Tracker/assets/74246826/53487b09-11f7-470f-9b44-87201234d39f)
+![WhatsApp Image 2023-10-15 at 11 18 21 AM](https://github.com/Anudeep02/Habit_Tracker/assets/74246826/153b976b-0623-4f96-b3cd-4f6a2d3703a1)
 
-![WhatsApp Image 2023-10-15 at 11 10 00 AM](https://github.com/Anudeep02/Habit_Tracker/assets/74246826/0ea062e8-6841-4844-b03d-eb84a94e7d73)
+![WhatsApp Image 2023-10-15 at 11 18 33 AM](https://github.com/Anudeep02/Habit_Tracker/assets/74246826/36d453f3-2d88-4194-a1e8-eeeb1c359e62)
+
+![WhatsApp Image 2023-10-15 at 11 18 44 AM](https://github.com/Anudeep02/Habit_Tracker/assets/74246826/1901b316-41c2-44cf-833a-659b3d036e7b)
+
 
